@@ -1,3 +1,3 @@
 ## Brain Fuck written in Rust
 
-### Usage: rbrain <file> 
+### Usage: rbrain program.bf
